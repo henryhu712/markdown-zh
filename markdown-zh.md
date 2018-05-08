@@ -1,13 +1,14 @@
 这是一份Markdown的快速查询手册，完整的文档可以参看：
 
-This is intended as a quick reference and showcase. For more complete info, see [John Gruber's original spec](http://daringfireball.net/projects/markdown/) and the [Github-flavored Markdown info page](http://github.github.com/github-flavored-markdown/).
+- [John Gruber's original spec](http://daringfireball.net/projects/markdown/) 
+- [Github-flavored Markdown info page](http://github.github.com/github-flavored-markdown/)
 
 
 ##### 目录
-[标题 (Headers)](#headers)  
-[Emphasis](#emphasis)  
-[Lists](#lists)  
-[Links](#links)  
+[标题](#headers)
+[强调](#emphasis)
+[列表](#lists)
+[Links](#links)
 [Images](#images)  
 [Code and Syntax Highlighting](#code)  
 [Tables](#tables)  
@@ -19,7 +20,7 @@ This is intended as a quick reference and showcase. For more complete info, see 
 
 <a name="headers"/>
 
-## 标题 (Headers)
+## 标题
 
 ```no-highlight
 # H1
@@ -45,7 +46,7 @@ Alt-H2
 ##### H5
 ###### H6
 
-Alternatively, for H1 and H2, an underline-ish style:
+另外，对于 H1 和 H2，还可以用下划线的格式：
 
 Alt-H1
 ======
@@ -55,7 +56,7 @@ Alt-H2
 
 <a name="emphasis"/>
 
-## Emphasis
+## 强调
 
 ```no-highlight
 Emphasis, aka italics, with *asterisks* or _underscores_.
@@ -78,7 +79,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 <a name="lists"/>
 
-## Lists
+## 列表
 
 (In this example, leading and trailing spaces are shown with with dots: ⋅)
 
